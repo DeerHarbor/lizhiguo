@@ -2,12 +2,13 @@
 title: Lizhi Guo（郭立志）
 role: Research Assistant
 avatar_filename: avatar.png
-bio: My research interests include Social determinants, cognition, and Imaging
+bio: My research interests include Social determinants, Cognition, and Imaging
   Analysis.
 interests:
   - Social determinant
   - Cognition
   - MRI
+  - Imaging Analysis
 social:
   - icon: envelope
     icon_pack: fas

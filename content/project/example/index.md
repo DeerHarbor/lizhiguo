@@ -9,11 +9,10 @@ url_slides: ""
 title: "Social isolation, loneliness, and health among older adults: evidence
   from Public Health, MRI, Biomark"
 tags: []
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+# links:
+#    icon_pack: fab
+ #   name: Follow
+#    url: https://twitter.com/georgecushen
 image:
   caption: ""
   focal_point: Smart

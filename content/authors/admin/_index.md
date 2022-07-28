@@ -2,7 +2,7 @@
 title: Lizhi Guo（郭立志）
 role: Research Assistant
 avatar_filename: avatar.png
-bio: My research interests include social isolation, loneliness, cognition and,
+bio: My research interests include social isolation, loneliness, cognition, and
   imaging analysis and biomarkers of Alzheimer's disease..
 interests:
   - Social determinant

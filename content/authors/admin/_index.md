@@ -1,49 +1,36 @@
 ---
-title: Lizhi Guo
-role: ""
-avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+title: Lizhi Guo（郭立志）
+role: Research Assistant
+avatar_filename: avatar.png
+bio: My research interests include social isolation, loneliness, cognition and,
+  imaging analysis and biomarkers of Alzheimer's disease..
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Social determinant
+  - Cognition
+  - MRI
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
+    link: https://scholar.google.com/citations?user=Qs04bLwAAAAJ&hl=zh-CN
+  - icon: researchgate
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.researchgate.net/profile/Lizhi-Guo
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Shenzhen Bay Laboratory
+    url: https://www.szbl.ac.cn/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+    - course: "M.S. in Applied Psychology, 09.2019-01.2022 "
+      institution: Tianjin University
+      year: ""
+    - course: B.S. in Material Forming and Control Engineering, 09.2014-06.2018
+      institution: Jilin University
+      year: ""
+email: glz1997@tju.edu.cn
 superuser: true
 highlight_name: true
 ---
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Lizhi focused on the association between social isolation, loneliness and health of older adults in his postgraduate study. He is skilled in cohort and longitudinal data analysis, and his research interests include imaging analysis and biomarkers of Alzheimer's disease.

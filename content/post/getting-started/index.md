@@ -1,6 +1,6 @@
 ---
-title: Congratulations! A new paper has been accepted for publication in
-  Archives of Gerontology and Geriatrics.
+title: New paper has been accepted for publication in Archives of Gerontology
+  and Geriatrics.
 subtitle: ""
 date: 2022-08-25T14:33:57.648Z
 summary: ""

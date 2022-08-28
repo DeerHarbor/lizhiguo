@@ -5,10 +5,10 @@ avatar_filename: avatar.png
 bio: My research interests include Social determinants, Cognition, and Imaging
   Analysis.
 interests:
+  - Cognitive Neuroscience
   - Social determinant
-  - Cognition
-  - MRI
   - Imaging Analysis
+  - MRI
 social:
   - icon: envelope
     icon_pack: fas
@@ -34,4 +34,4 @@ email: glz1997@tju.edu.cn
 superuser: true
 highlight_name: true
 ---
-Lizhi focused on the association between social isolation, loneliness and health of older adults in his postgraduate study. He is skilled in cohort and longitudinal data analysis, and his research interests include imaging analysis and biomarkers of Alzheimer's disease.
+Lizhi focused on the association between social isolation, loneliness and health of older adults in his postgraduate study. He is skilled in cohort and longitudinal data analysis. His research interests include, but are not limited to, cognitive neuroscience, social determinants, and imaging analysis.

@@ -19,7 +19,7 @@ publication_types:
   - "2"
 authors:
   - Lizhi Guo
-  - Li Yan
+  - Li Yang
   - Liwei Rao
   - Fengping Luo
   - Ningcan Gao

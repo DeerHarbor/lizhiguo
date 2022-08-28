@@ -1,87 +1,54 @@
 ---
-title: 'An example conference paper'
-
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
+abstract: ""
+slides: ""
+url_pdf: ""
+publication_types:
+  - "2"
 authors:
-  - admin
-  - Robert Ford
-
-# Author notes (optional)
+  - Lizhi Guo
+  - Li Yan
+  - Liwei Rao
+  - Fengping Luo
+  - Ningcan Gao
+  - Xiaohua Jia
+  - Bin Yu
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+  - Equal contribution
+  - Equal contribution
+publication: In *Archives of Gerontology and Geriatrics*
+summary: >
+  Objective: Most previous studies focusing on the association between
+  depressive symptoms and lung function were conducted in patients with chronic
+  lung diseases. This study aims to investigate the association of depressive
+  symptoms with lung function among general Chinese middle-aged and older
+  adults.
 
-date: '2013-07-01T00:00:00Z'
-doi: ''
+  Participants: This study used data from the China Health and Retirement Longitudinal Study (CHARLS). Analyses were conducted with data from three waves (2011, 2013, and 2015) and restricted to those respondents aged 45 and older. Finally, 9,487 individuals [mean age (SD)=58.47 (9.19); female, 53.1%] were included in analysis. 
 
-# Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+  Methods: Depressive symptoms were measured by the Chinese version of 10-item Center for Epidemiological Studies Depression Scale (CESD-10). Lung function was assessed by peak expiratory flow (PEF). Two-level linear mixed growth models were used to evaluate the longitudinal association between depressive symptoms and PEF.
 
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ['1']
+  Results: Depressive symptoms were significantly associated with PEF among general middle-aged and older adults (b=-1.85, p<0.001) after adjusting for multiple confounding factors. A significant interaction between depressive symptoms and gender was found (b=1.29, p<0.001). The association between depressive symptoms and PEF was greater for men (b=-2.36, p<0.001) than for women (b=-1.46, p<0.001).
 
-# Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags: []
-
-# Display this page in the Featured widget?
+  Conclusions: This longitudinal study found that increased depressive symptoms were associated with reduced PEF in middle-aged and older adults in China. Compared with women, men with a higher level of depressive symptoms experienced a greater decrement in PEF. Our findings suggest that it is possible to reduce the effects of PEF by improving psychological health among general middle-aged and older populations.
+url_dataset: ""
+url_project: ""
+publication_short: ""
+url_source: ""
+url_video: ""
+title: "Too depressed to breathe: The longitudinal association between
+  depressive symptoms and lung function among general middle-aged and older
+  adults"
+doi: ""
 featured: true
-
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
+tags: []
+projects: []
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-  - example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+date: 2013-07-01T00:00:00Z
+url_slides: ""
+publishDate: 2017-01-01T00:00:00Z
+url_poster: ""
+url_code: ""
 ---
-
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).

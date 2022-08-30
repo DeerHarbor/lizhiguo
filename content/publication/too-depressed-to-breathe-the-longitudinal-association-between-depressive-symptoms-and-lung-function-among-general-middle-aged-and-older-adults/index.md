@@ -39,7 +39,7 @@ title: "Social isolation and cognitive decline among older adults with
   depressive symptoms: prospective findings from the China Health and Retirement
   Longitudinal Study"
 doi: ""
-featured: true
+featured: false
 tags: []
 projects: []
 image:

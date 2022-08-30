@@ -38,7 +38,7 @@ url_video: ""
 title: "Social isolation and cognitive decline among older adults with
   depressive symptoms: prospective findings from the China Health and Retirement
   Longitudinal Study"
-doi: ""
+doi: https://doi.org/10.1016/j.archger.2021.104390
 featured: false
 tags: []
 projects: []

@@ -43,7 +43,7 @@ title: "Too depressed to breathe: The longitudinal association between
   depressive symptoms and lung function among general middle-aged and older
   adults"
 doi: ""
-featured: true
+featured: false
 tags: []
 projects: []
 image:

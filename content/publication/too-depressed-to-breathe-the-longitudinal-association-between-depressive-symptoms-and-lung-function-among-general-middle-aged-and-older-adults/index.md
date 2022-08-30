@@ -1,37 +1,33 @@
 ---
-abstract: >
-  Objective: Most previous studies focusing on the association between
-  depressive symptoms and lung function were conducted in patients with chronic
-  lung diseases. This study aims to investigate the association of depressive
-  symptoms with lung function among general Chinese middle-aged and older
-  adults.
+abstract: >-
+  Objectives
+
+  : Identifying potentially modifiable risk factors of cognitive decline among people with depressive symptoms could provide insight into strategies for improving treatment effect of depression and prevention of dementia. Quite a few studies have examined the association between social isolation and cognitive function directly among depressed older adults and the results are still mixed. The aim is to examine the association of social isolation and cognitive decline among older adults with depressive symptoms in a non-Western country.
 
 
-  Participants: This study used data from the China Health and Retirement Longitudinal Study (CHARLS). Analyses were conducted with data from three waves (2011, 2013, and 2015) and restricted to those respondents aged 45 and older. Finally, 9,487 individuals [mean age (SD)=58.47 (9.19); female, 53.1%] were included in analysis. 
+  Methods
+
+  : This study used data from the China Health and Retirement Longitudinal Study (CHARLS). Depressive symptoms were measured by the Chinese version of the 10-item Center for Epidemiological Studies Depression Scale (CESD-10) (elevated depressive symptom cutoff10). Social isolation was assessed based on responses to four items: marital status, residence, contact with children, and social activity. Lagged dependent variable regressions adjusted for confounding factors were used to evaluate the association between baseline social isolation and follow-up cognitive function.
 
 
-  Methods: Depressive symptoms were measured by the Chinese version of 10-item Center for Epidemiological Studies Depression Scale (CESD-10). Lung function was assessed by peak expiratory flow (PEF). Two-level linear mixed growth models were used to evaluate the longitudinal association between depressive symptoms and PEF.
+  Results
+
+  : A number of 2,507 participants [mean age (SD)=61.37 (7.26); male, 41.0%] with increased depressive symptoms were available for the present study. Baseline social isolation was significantly associated with 4-year episodic memory (β=−0.08, p<0.001) in depressed women, but not men (β=−0.03, p=0.350). No significant association between baseline social isolation and follow-up mental status was found for women (β=−0.04, p=0.097) or men (β=0.01, p=0.741).
 
 
-  Results: Depressive symptoms were significantly associated with PEF among general middle-aged and older adults (b=-1.85, p<0.001) after adjusting for multiple confounding factors. A significant interaction between depressive symptoms and gender was found (b=1.29, p<0.001). The association between depressive symptoms and PEF was greater for men (b=-2.36, p<0.001) than for women (b=-1.46, p<0.001).
+  Discussion
 
-
-  Conclusions: This longitudinal study found that increased depressive symptoms were associated with reduced PEF in middle-aged and older adults in China. Compared with women, men with a higher level of depressive symptoms experienced a greater decrement in PEF. Our findings suggest that it is possible to reduce the effects of PEF by improving psychological health among general middle-aged and older populations.
+  : This longitudinal study found that social isolation was significantly associated with memory decline over 4 years among depressed women (but not men) in China.
 slides: ""
 url_pdf: ""
 publication_types:
   - "2"
 authors:
   - Lizhi Guo
-  - Li Yang
-  - Liwei Rao
   - Fengping Luo
   - Ningcan Gao
-  - Xiaohua Jia
   - Bin Yu
-author_notes:
-  - Equal contribution
-  - Equal contribution
+author_notes: []
 publication: In *Archives of Gerontology and Geriatrics*
 summary: ""
 url_dataset: ""
@@ -39,9 +35,9 @@ url_project: ""
 publication_short: ""
 url_source: ""
 url_video: ""
-title: "Too depressed to breathe: The longitudinal association between
-  depressive symptoms and lung function among general middle-aged and older
-  adults"
+title: "Social isolation and cognitive decline among older adults with
+  depressive symptoms: prospective findings from the China Health and Retirement
+  Longitudinal Study"
 doi: ""
 featured: true
 tags: []
@@ -51,7 +47,7 @@ image:
   focal_point: ""
   preview_only: false
   filename: featured.jpg
-date: 2022-08-30T09:55:02.332Z
+date: 2021-03-19T09:55:02.332Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""

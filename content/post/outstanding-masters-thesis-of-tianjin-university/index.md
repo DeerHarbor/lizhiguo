@@ -1,6 +1,6 @@
 ---
 title: Outstanding Master's Thesis of Tianjin University
-date: 2022-08-31T10:05:15.719Z
+date: 2022-05-26T10:05:15.719Z
 draft: false
 featured: false
 image:

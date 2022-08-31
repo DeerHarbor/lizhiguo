@@ -22,7 +22,7 @@ url_pdf: ""
 publication_types:
   - "2"
 authors:
-  - Lizhi Guo
+  - admin
   - Li Yang
   - Liwei Rao
   - Fengping Luo

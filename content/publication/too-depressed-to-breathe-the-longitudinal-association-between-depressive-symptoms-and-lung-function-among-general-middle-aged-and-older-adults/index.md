@@ -23,7 +23,7 @@ url_pdf: ""
 publication_types:
   - "2"
 authors:
-  - Lizhi Guo
+  - admin
   - Fengping Luo
   - Ningcan Gao
   - Bin Yu

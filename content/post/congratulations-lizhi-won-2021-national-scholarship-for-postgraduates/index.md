@@ -1,6 +1,6 @@
 ---
 title: Congratulations! Lizhi won 2021 National Scholarship for Postgraduates.
-date: 2022-08-31T10:03:08.303Z
+date: 2021-10-25T10:03:08.303Z
 draft: false
 featured: false
 image:

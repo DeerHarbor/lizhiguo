@@ -17,6 +17,6 @@ image:
   focal_point: ""
   placement: 2
   preview_only: false
-  filename: ""
+  filename: featured.jpg
 ---
 Lizhi's newest paper "Too depressed to breathe: the longitudinal association between depressive symptoms and lung function among general middle-aged and older adults" has been accepted for publication in Archives of Gerontology and Geriatrics.

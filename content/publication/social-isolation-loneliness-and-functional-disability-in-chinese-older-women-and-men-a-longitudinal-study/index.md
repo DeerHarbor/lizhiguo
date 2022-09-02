@@ -40,5 +40,9 @@ image:
   filename: featured.jpg
   focal_point: Smart
   preview_only: false
+summary: >
+  This study investigated whether loneliness or social isolation is associated
+  with the onset of functional disability over 4 years among Chinese older
+  populations.
 date: 2020-12-23T10:08:13.295Z
 ---

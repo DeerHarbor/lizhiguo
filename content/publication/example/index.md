@@ -42,7 +42,7 @@ url_video: ""
 title: "Too depressed to breathe: The longitudinal association between
   depressive symptoms and lung function among general middle-aged and older
   adults"
-doi: ""
+doi: https://doi.org/10.1016/j.archger.2022.104797
 featured: false
 tags: []
 projects: []

@@ -5,7 +5,7 @@ subtitle: ""
 date: 2022-08-25T14:33:57.648Z
 summary: ""
 draft: false
-featured: false
+featured: true
 authors:
   - admin
 lastmod: 2020-12-13T00:00:00.000Z

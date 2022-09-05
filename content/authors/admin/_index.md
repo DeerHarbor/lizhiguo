@@ -9,6 +9,7 @@ interests:
   - Social determinant
   - Imaging Analysis
   - MRI
+  - PET
 social:
   - icon: envelope
     icon_pack: fas

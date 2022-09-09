@@ -12,6 +12,9 @@ authors:
   - Ningcan Gao
   - Xiaohua Jia
   - BinYu
+author_notes:
+  - Equal contribution
+  - Equal contribution
 doi: https://doi.org/10.1016/j.archger.2022.104797
 publication: In*Archives of Gerontology and Geriatrics*
 abstract: >-

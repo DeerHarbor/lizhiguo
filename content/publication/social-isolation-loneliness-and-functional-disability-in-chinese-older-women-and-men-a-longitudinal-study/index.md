@@ -9,7 +9,7 @@ authors:
   - Fengping Luo
   - Bin Yu
 doi: https://doi.org/10.1093/ageing/afaa271
-publication: In *Age and Ageing*
+publication: "*Age and Ageing*"
 abstract: >-
   Objective: 
 

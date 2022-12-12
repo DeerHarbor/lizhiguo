@@ -10,7 +10,7 @@ authors:
   - NingcanGao
   - BinYu
 doi: https://doi.org/10.1016/j.archger.2021.104390
-publication: Archives of Gerontology and Geriatrics
+publication: "*Archives of Gerontology and Geriatrics*"
 abstract: >-
   Objectives
 
